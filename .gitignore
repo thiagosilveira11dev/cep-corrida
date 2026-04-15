@@ -42,8 +42,7 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Dados
-data/raw/*.csv
-data/raw/*.xlsx
-data/processed/*.csv
+# Dados (raw e processados)
+data/raw/
+data/processed/
 data/exports/
